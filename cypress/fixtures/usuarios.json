@@ -1,0 +1,26 @@
+[
+  {
+    "email": "chandler.bing@friends.com",
+    "fullName": "Chandler Bing",
+    "userName": "chanchan",
+    "password": "sarcasm"
+  },
+  {
+    "email": "monica.geller@friends.com",
+    "fullName": "Monica Geller",
+    "userName": "monica",
+    "password": "cooking"
+  },
+  {
+    "email": "ross.geller@friends.com",
+    "fullName": "Ross Geller",
+    "userName": "ross",
+    "password": "jurassicpark"
+  },
+  {
+    "email": "rachel.green@friends.com",
+    "fullName": "Rachel Green",
+    "userName": "rachel",
+    "password": "shopping"
+  }
+]
